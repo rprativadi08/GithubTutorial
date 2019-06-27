@@ -1,4 +1,4 @@
 # GithubTutorial
-Training Github Repo
-
 Hello World!
+
+I'm Ready to Code
